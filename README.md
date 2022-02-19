@@ -1,9 +1,9 @@
-                          ### Oiii eu sou o Léo, Estudante de conteúdo de programação e tecnologia! 👋
+## Oiii eu sou o Léo ,estudante de conteúdo de programação e tecnologia!
 <div align="center">
-  <a href="https://github.com/leomsa">
-  <img height="180vh" src="https://github-readme-stats.vercel.app/api?username=LEOMSA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="100vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEOMSA&layout=compact&langs_count=7&theme=synthwave"/>
- <div style="display:inline_block"><br>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leomsa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomsa&layout=compact&langs_count=7&theme=dracula"/>
+</div>
    
   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
