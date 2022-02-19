@@ -1,9 +1,4 @@
-### Olá, eu sou o Léo  👋
-
-- 🔭 Eu gosto de trabalhar com Front-end 
-- 🌱 Estudando Javascript/HTML5/CSS...
-- 📫 How to reach me: leo.akimim@gmail.com
-- 😄 Pronouns: ele/dele
+### Oiii eu sou o Léo, Estudante de conteúdo de programação e tecnologia! 👋
 <div align="center">
   <a href="https://github.com/leomsa">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LEOMSA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
