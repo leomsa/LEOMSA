@@ -1,4 +1,4 @@
-## Oiii eu sou o Leonardo, estudante de conteúdo de programação e tecnologia!
+## Oiii eu sou o Leonardo, Desenvolvedor back-end!
 <div align="center">
     <a href="https://github.com/leomsa">
         <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=leomsa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
