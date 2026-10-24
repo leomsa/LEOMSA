@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I'm Leonardo santos,  I'm a Software developer at AGCO CORPORATION
+I'm Leonardo santos,  I'm a System Analist at SAP.
 
 [![Linkedin: Andressa](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/linkedin.com/in/leonardo-machado-santos)](https://www.linkedin.com/in/leonardo-machado-santos/?locale=en_US)
 
